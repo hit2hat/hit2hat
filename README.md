@@ -1,9 +1,22 @@
-<img src="https://sun9-43.userapi.com/c854420/v854420286/105b1/nV4jpUcuozQ.jpg"></img>
 # Stepan Novozhilov [Hit2Hat]
 Have fun with my open source projects below ❤️
 
 ## About me
-I'm 23 old fullstack developer and UI/UX designer from Yaroslavl, Russia. Write on <b>TypeScript (+ JavaScript and Node.JS)</b>, C++, C#, PHP and many other langs. Really like MongoDB, Redis and RabbitMQ. In 17 years became external member of VK Team. Work with largest CIS companies, like as <b>VK, OK, Sber, Mail.ru, Delivery Club, Litres Books, Sports.ru, Zoom</b> and others. I also work on my own personal projects such as <b>AlphaMusic, MGSL, Nimble, YSTU.ID</b> and others. Follow me for more interesting content.
+**I'm a 23 y.o. full-stack dev & UI/UX designer from Yaroslavl, Russia.**
+
+Right now I’m building stuff at my own IT company — Aeternus Capital , focused on custom software development and outsourcing solutions.
+We help businesses bring ideas to life with code.
+
+I've been coding since I was a teen and now work with big players like **VK, Sber, Mail.ru, Delivery Club**, and others.
+Started contributing to **VK at just 17** — you could say I grew up in the tech world 😄
+
+Tech I love:
+- 💻 **Languages:** TypeScript (Deno in my heart), JavaScript, Node.js, C++, C#, PHP  
+- 🗄️ **Databases & Tools:** MongoDB, Redis, RabbitMQ  
+- 🚀 Side projects: AlphaMusic, MGSL, Nimble, Studenfy (formerly YSTU.ID)
+
+Also into UI/UX design and building cool stuff on the side.
+Check out my repos for code experiments, open-source things, and personal tools.
 
 ## Contacts
 * [VK](https://vk.com/ops)
