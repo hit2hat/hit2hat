@@ -1,10 +1,8 @@
 # Stepan Novozhilov [Hit2Hat]
-Have fun with my open source projects below ❤️
 
-## About me
 **I'm a 23 y.o. full-stack dev & UI/UX designer from Yaroslavl, Russia.**
 
-Right now I’m building stuff at my own IT company — Aeternus Capital , focused on custom software development and outsourcing solutions.
+Right now I’m building stuff at my own IT company — [Aeternus Capital](https://github.com/aeternus-capital), focused on custom software development and outsourcing solutions.
 We help businesses bring ideas to life with code.
 
 I've been coding since I was a teen and now work with big players like **VK, Sber, Mail.ru, Delivery Club**, and others.
@@ -18,6 +16,7 @@ Tech I love:
 Also into UI/UX design and building cool stuff on the side.
 Check out my repos for code experiments, open-source things, and personal tools.
 
-## Contacts
-* [VK](https://vk.com/ops)
-* [Telegram](https://t.me/hit2hat)
+You can reach me via [VK](https://vk.com/ops) or [Telegram](https://t.me/hit2hat).
+Feel free to drop a message — I’m always open to new opportunities and collaborations.
+
+Have fun with my open source projects below ❤️
