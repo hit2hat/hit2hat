@@ -1,6 +1,6 @@
 # Stepan Novozhilov [Hit2Hat]
 
-**I'm a 23 y.o. full-stack dev & UI/UX designer from Yaroslavl, Russia.**
+**I'm a 24 y.o. full-stack dev & UI/UX designer from Yaroslavl, Russia.**
 
 Right now I’m building stuff at my own IT company — [Aeternus Capital](https://github.com/aeternus-capital), focused on custom software development and outsourcing solutions.
 We help businesses bring ideas to life with code.
