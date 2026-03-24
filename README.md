@@ -2,9 +2,6 @@
 
 **I'm a 24 y.o. full-stack dev & UI/UX designer from Yaroslavl, Russia.**
 
-Right now I’m building stuff at my own IT company — [Aeternus Capital](https://github.com/aeternus-capital), focused on custom software development and outsourcing solutions.
-We help businesses bring ideas to life with code.
-
 I've been coding since I was a teen and now work with big players like **VK, Sber, Mail.ru, Delivery Club**, and others.
 Started contributing to **VK at just 17** — you could say I grew up in the tech world 😄
 
