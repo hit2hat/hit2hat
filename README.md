@@ -33,3 +33,8 @@ Because I enjoy untangling complex problems, I write about them. Some of my publ
 ---
 Let's talk about distributed systems, V8 quirks, or smart cards.<br/>
 You can reach me on [Telegram](https://t.me/hit2hat).
+
+```
+PGP FINGERPRINT: 9D13 7913 6A8B 02DA 82A8  BD9C 6071 E470 169E 8305
+$ curl -s https://github.com/hit2hat.gpg | gpg --import
+```
