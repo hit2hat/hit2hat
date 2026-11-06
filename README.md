@@ -1,3 +1,5 @@
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=7EE787&vCenter=true&width=600&lines=hit2hat%40macbook-pro+analytics+%25+go+build+-o+.%2Fapp+.%2Fcmd%2Fmain.go;hit2hat%40macbook-pro+analytics+%25+werf+converge+--env+production;%5BAPI%5D+Listening+on+unix%3A%2F%2Fvar%2Fanalytics%2Fserver.sock;%5B2026-11-06T11%3A24%3A46.388Z%5D+Temporal+workflow+%22month-report%22+was+started)
+
 # Stepan 👋
 
 I am a Systems & Product Engineer. I write code because it’s my craft, my obsession, and my only real hobby.
